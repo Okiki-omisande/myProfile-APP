@@ -27,7 +27,5 @@ Scanner Input = new Scanner(System.in);
 //statement declaration
         System.out.printf("Your profile name is: %s%n", myProfile.getProfile());
          System.out.printf("Welcome on board %s%n", myProfile.getProfile());
-
-
 }//method body ends
 }//class body ends
